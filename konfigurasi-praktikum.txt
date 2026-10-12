@@ -1,0 +1,14 @@
+Konfigurasi praktikum K-1 IPC — Kelompok 5
+
+Hostname VM: srv-mobile-250660121033
+Sistem operasi: Ubuntu 26.04.1 LTS
+Kernel: 7.0.0-38-generic
+RAM VM (hasil free -h): total 1.6 GiB; available sekitar 1.2 GiB pada saat pemeriksaan
+Jumlah vCPU (hasil nproc): 2
+Bahasa pemrograman: Python 3
+Mekanisme IPC: Socket TCP dan pipe melalui os.pipe()
+Port server socket: 5000
+Alamat client saat pengujian: 127.0.0.1
+Alamat bind server: 0.0.0.0
+
+Catatan: versi VirtualBox dan versi Python belum dicantumkan karena belum diperiksa.
